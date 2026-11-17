@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{1853179f-d731-4a61-a0cd-50f6fa9062ab}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Documents/Dokument/Viktiga Dokument/Unity_3D-Gamekit_Student_2026/Assets/Plugins/FMOD/Banks/Desktop</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{4bb40be6-5ec6-4890-938a-a4036c0784bd}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{d3743c94-f25c-4c3a-a9df-58bf5ab084fb}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{cda8db9a-4467-4428-aff0-fe1e1e285651}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{ccd4a915-0f26-4d1d-9888-9b84724ec269}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{bcc75b0a-34f8-43fd-838b-94a88c36b1b4}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{8be5aa2c-f3e0-46ad-8c6a-66699721dfdf}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{3c064cf2-0e9f-4002-ad7a-c71209e1b0aa}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{348df5df-d744-40c3-9b19-e724b5512ebe}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{821563c6-be60-42d1-b694-34cb8f7dfccf}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{e503cd1c-41bd-4a0a-85c6-4832fa2fd57a}</destination>
+		</relationship>
+	</object>
+</objects>
