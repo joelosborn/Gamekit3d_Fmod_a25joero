@@ -254,6 +254,7 @@
 	<object class="MixerBusEffectChain" id="{75eda2c5-a3ee-44f3-ae80-787c2b20ea7a}">
 		<relationship name="effects">
 			<destination>{548ba496-2043-4b25-b9a6-f84ebdf6959d}</destination>
+			<destination>{b478123f-6f0c-4a73-84a9-6884b8e868d6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{957923d0-cb1d-4ace-8ebe-761a768d2e81}" />
@@ -288,5 +289,10 @@
 	<object class="MixerBusFader" id="{93f006b8-bc8f-4a12-9880-61e198dbff9e}" />
 	<object class="PitchShifterEffect" id="{53360b7b-cd29-43ac-a3f8-918931f116fc}" />
 	<object class="MixerBusFader" id="{548ba496-2043-4b25-b9a6-f84ebdf6959d}" />
+	<object class="FlangerEffect" id="{b478123f-6f0c-4a73-84a9-6884b8e868d6}">
+		<property name="rate">
+			<value>0.099999994</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{6de31560-13f5-4623-8235-cba121575878}" />
 </objects>
